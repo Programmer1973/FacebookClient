@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Фейсбук клиент \"Точки Кода\"</string>
+    <string name="facebook_app_id">419111925294435</string>
+
+    <string name="not_authenticated">Не авторизован</string>
+
+    <string name="navigation_drawer_open">Меню</string>
+    <string name="navigation_drawer_close">@string/app_name</string>
+
+    <string name="logout">Выйти</string>
+    <string name="login_error">Ошибка логина</string>
+
+    <string name="create_post">Создать пост</string>
+    <string name="post_text_hint">Текст поста</string>
+
+    <string name="delete_post">Удалить пост</string>
+    <string name="delete">Удалить</string>
+    <string name="delete_all_posts">Удалить всё</string>
+
+    <string name="update_post">Обновить пост</string>
+    <string name="update">Обновить</string>
+
+    <string name="create">Создать</string>
+    <string name="error_no_text">Нет текста</string>
+
+    <string name="cancel">Отмена</string>
+    <string name="delete_x_post">✕</string>
+    <!--code 2717-->
+
+    <string name="posts_are_absent">Посты отсутствуют</string>
+
+    <string name="to_load_posts_move_finger">Для загрузки постов проведите сверху вниз пальцем по экрану</string>
+
+    <!--for testing-->
+    <string name="post_number_for_test">Пост №</string>
+    <string name="edited_post_number_for_test">Обновлённый пост №</string>
+
+</resources>

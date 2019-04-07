@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Facebook client \"Code Point\"</string>
+	<string name="facebook_app_id">419111925294435</string>
+
+	<string name="not_authenticated">Not authorized</string>
+
+	<string name="navigation_drawer_open">Menu</string>
+	<string name="navigation_drawer_close">@string/app_name</string>
+
+	<string name="logout">Exit</string>
+	<string name="login_error">Login error</string>
+
+	<string name="create_post">Create post</string>
+	<string name="post_text_hint">Text of post</string>
+
+	<string name="delete_post">Delete post</string>
+	<string name="delete">Delete</string>
+	<string name="delete_all_posts">Delete all</string>
+
+	<string name="update_post">Update post</string>
+	<string name="update">Update</string>
+
+	<string name="create">Create</string>
+	<string name="error_no_text">No text</string>
+
+	<string name="cancel">Cancel</string>
+	<string name="delete_x_post">✕</string>
+    <!--code 2717-->
+
+	<string name="posts_are_absent">Posts are absent</string>
+
+	<string name="to_load_posts_move_finger">To load posts move your finger on the screen from top to bottom</string>
+
+	<!--for testing-->
+    <string name="post_number_for_test">Post #</string>
+	<string name="edited_post_number_for_test">Edited post #</string>
+
+</resources>
