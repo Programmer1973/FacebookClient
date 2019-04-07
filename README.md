@@ -1,5 +1,5 @@
-My diploma project on "Android developer" course on online educational platform Skillboх:
-https://go.skillbox.ru
+My diploma project on "Android developer" course on Skillboх online-university:
+https://skillbox.ru
 
 @created 07.04.2019
 @author Andrey Dudin <programmer1973@mail.ru>
